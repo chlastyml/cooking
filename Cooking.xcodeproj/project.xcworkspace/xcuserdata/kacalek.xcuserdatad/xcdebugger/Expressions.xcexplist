@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.setNumberPage(index:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "slides?.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.updateWeatherImage(imageUrl:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "DetailViewController.backBtnClick(_:):DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.navigationController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Repository.unsafeMutableAddressor:Repository.swift">
+      </ContextState>
+      <ContextState
+         contextName = "NavigationViewController.viewDidLoad():NavigationViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.navigationController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ViewController.createSlidesByData(data:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.selectSubMenu():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pageControl.numberOfP">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailViewController.data.didset:DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.data">
+            </PersistentString>
+            <PersistentString
+               value = "titleLabel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
